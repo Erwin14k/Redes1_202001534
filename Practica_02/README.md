@@ -65,7 +65,7 @@
     <br>
     <h2 style="text-align:center;">Configuración De R1 y R4</h2>
     <p>
-      Estos fueron los comandos utilizados para la configuración de los routers R2 y R3, los cuales están comunicados mediante un enlace serial.
+      Estos fueron los comandos utilizados para la configuración de los routers R1 y R4, los cuales están comunicados mediante un enlace serial.
     </p>
     <div style="text-align: center;">
       <img src="./Images/r1_config.png" alt="Datacenter Network" width="1000" height="auto">
